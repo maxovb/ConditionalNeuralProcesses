@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="km817@localhost:6000">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/homes/km817/CNP/ConditionalNeuralProcesses" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
